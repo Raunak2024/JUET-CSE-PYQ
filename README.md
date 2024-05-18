@@ -1,1 +1,1 @@
-# JUET-PYQ
+# JUET-CSE-PYQ
